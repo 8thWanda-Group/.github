@@ -2,7 +2,7 @@
 
 # 8thWanda Group (Pty) Ltd
 
-Building software products for African markets — from fintech infrastructure to consumer apps.
+Building software products for African markets from fintech infrastructure to consumer apps.
 
 </div>
 
