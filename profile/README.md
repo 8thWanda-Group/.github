@@ -13,7 +13,6 @@ Building software products for African markets from fintech infrastructure to co
 | Product | Description |
 |---|---|
 | [Usagey](https://usagey.com) | Usage metering, plan limits, and billing infrastructure |
-| Cardly | Loyalty card wallet |
 
 Based in South Africa. Full-stack: TypeScript, React Native, Expo, Node.js.
 
